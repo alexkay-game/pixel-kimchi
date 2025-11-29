@@ -20,6 +20,9 @@ MonoBehaviour:
         keys:
         - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-1165061968-0
         - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-628374105-0
+        - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-530717060-0
+        - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-37529433-0
+        - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-3175318901015391194-6041701355166155768
         values:
         - colorIndex: 4
           iconNameOrGuid: AvatarMask On Icon
@@ -27,6 +30,18 @@ MonoBehaviour:
           isColorRecursive: 1
         - colorIndex: 2
           iconNameOrGuid: NavMeshObstacle Icon
+          isIconRecursive: 0
+          isColorRecursive: 1
+        - colorIndex: 7
+          iconNameOrGuid: AnimationClip On Icon
+          isIconRecursive: 0
+          isColorRecursive: 1
+        - colorIndex: 3
+          iconNameOrGuid: PackageManagerWarning
+          isIconRecursive: 0
+          isColorRecursive: 1
+        - colorIndex: 4
+          iconNameOrGuid: AvatarMask On Icon
           isIconRecursive: 0
           isColorRecursive: 1
   bookmarks: []

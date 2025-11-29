@@ -1,0 +1,42 @@
+# Unity cache and build folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Dd]erivedDataCache/
+
+# User / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Visual Studio / MonoDevelop / Rider
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity generated files
+*.pidb.meta
+*.pdb.meta
+
+# Package caches
+Packages/com.unity.package-manager-ui/
+Packages/*/package-cache/
+
+# Misc
+*.tmp
+*.swp
