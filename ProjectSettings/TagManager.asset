@@ -46,5 +46,35 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Dirt
+    uniqueID: 1494826237
+    locked: 0
+  - name: Grass
+    uniqueID: 3349011799
+    locked: 0
+  - name: Fence Up/side
+    uniqueID: 1818270929
+    locked: 0
+  - name: Other
+    uniqueID: 1844840455
+    locked: 0
+  - name: Customer
+    uniqueID: 3292386369
+    locked: 0
+  - name: PackageCustomer
+    uniqueID: 2292464793
+    locked: 0
+  - name: PackageWaiting
+    uniqueID: 2868134883
+    locked: 0
+  - name: Player
+    uniqueID: 1112628021
+    locked: 0
+  - name: Fence Down
+    uniqueID: 4263004435
+    locked: 0
+  - name: PackageHandling
+    uniqueID: 1466817525
+    locked: 0
   m_RenderingLayers:
   - Default
